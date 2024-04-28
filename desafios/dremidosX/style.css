@@ -41,9 +41,10 @@ body {
     background-color: #B3C4F4;
     font-family: Arial, Helvetica;
     background-image: url(transmissão.gif);
-    background-size: 1900px 1900px;
     background-repeat: no-repeat;
     height: 98vh;
+    background-position: left center;
+    background-size: cover;
 }
 
 header {
